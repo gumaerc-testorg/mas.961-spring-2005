@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file discusses the various scenarios in day to day's life.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-961-ambient-intelligence-spring-2005/9f0d2860282cf6930800f73e1f815244_ss_scene_paper.pdf
+file: /media/courses/mas-961-ambient-intelligence-spring-2005/9f0d2860282cf6930800f73e1f815244_ss_scene_paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ss_scene_paper.pdf
 uid: 9f0d2860-282c-f693-0800-f73e1f815244

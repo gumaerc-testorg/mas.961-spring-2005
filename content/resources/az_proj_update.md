@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file gives the update on the project work being done.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-961-ambient-intelligence-spring-2005/25de4031e980ffac6fc4f04cee449d3f_az_proj_update.pdf
+file: /media/courses/mas-961-ambient-intelligence-spring-2005/25de4031e980ffac6fc4f04cee449d3f_az_proj_update.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: az_proj_update.pdf
 uid: 25de4031-e980-ffac-6fc4-f04cee449d3f

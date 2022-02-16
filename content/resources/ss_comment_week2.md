@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file gives comments for direct manipulation vs. interface agents:
   a debate link.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-961-ambient-intelligence-spring-2005/d32a79ede67e0489890cf2048398ff86_ss_comment_week2.pdf
+file: /media/courses/mas-961-ambient-intelligence-spring-2005/d32a79ede67e0489890cf2048398ff86_ss_comment_week2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ss_comment_week2.pdf
 uid: d32a79ed-e67e-0489-890c-f2048398ff86
