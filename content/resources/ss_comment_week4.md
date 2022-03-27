@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 514cf668-00a4-1a9c-9e0e-2d75c7a7affa
 resourcetype: Document
 title: ss_comment_week4.pdf
 uid: 11d9a7d0-c84c-710d-fc49-c758aebfcff8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 895b2368-ac6f-b45d-cc8e-11b61088020b
 resourcetype: Document
 title: week5_sajidsadi2.pdf
 uid: 746d5bbb-df03-1144-c829-90ed74800e14

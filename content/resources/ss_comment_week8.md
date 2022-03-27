@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 514cf668-00a4-1a9c-9e0e-2d75c7a7affa
 resourcetype: Document
 title: ss_comment_week8.pdf
 uid: ec40aa85-fa48-05d9-4fd4-a37354f6ab3d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 23ce42e9-4b49-8d35-7e0d-67b83b3011bf
 resourcetype: Document
 title: ss_scene_paper.pdf
 uid: 9f0d2860-282c-f693-0800-f73e1f815244

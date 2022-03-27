@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 23ce42e9-4b49-8d35-7e0d-67b83b3011bf
 resourcetype: Document
 title: az_augment_obj.pdf
 uid: 78376129-69f1-24cb-0aff-27dc2d42c6ba

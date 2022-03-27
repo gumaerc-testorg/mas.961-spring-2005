@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 514cf668-00a4-1a9c-9e0e-2d75c7a7affa
 resourcetype: Document
 title: ae_week5.pdf
 uid: 55108a6e-410f-7cab-e724-e85fe593744d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 895b2368-ac6f-b45d-cc8e-11b61088020b
 resourcetype: Document
 title: week8_az_arpres.pdf
 uid: 4adeb296-0b73-ef42-a4e3-8f3fb143fc31

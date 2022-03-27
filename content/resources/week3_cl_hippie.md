@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 895b2368-ac6f-b45d-cc8e-11b61088020b
 resourcetype: Document
 title: week3_cl_hippie.pdf
 uid: 4ec634c5-3ee9-22f0-5e69-953f81692d95

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 895b2368-ac6f-b45d-cc8e-11b61088020b
 resourcetype: Document
 title: week5_pm_ubicomp.pdf
 uid: bd6335c5-dc42-fbfe-4f20-4c5e77e903df
