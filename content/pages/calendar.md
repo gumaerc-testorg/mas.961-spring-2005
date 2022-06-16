@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Calender sections contains the schedule for the classes during the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

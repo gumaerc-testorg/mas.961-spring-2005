@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains the goals which this course would target
+  to achieve.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

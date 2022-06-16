@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-961-ambient-intelligence-spring-2005/a067874a213594dfd1a08941ad8d3549_week3_fl_geonote.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/a067874a213594dfd1a08941ad8d3549_week3_fl_geonote.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

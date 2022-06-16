@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the problems, design rules, and objectives for the
   creation of active campus.
-file: /media/courses/mas-961-ambient-intelligence-spring-2005/deef65edb57d53de678343f2bb6c5d7e_week3_fl_actcamp.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/deef65edb57d53de678343f2bb6c5d7e_week3_fl_actcamp.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: week3_fl_actcamp.pdf
 uid: deef65ed-b57d-53de-6783-43f2bb6c5d7e
 ---
+This file contains the problems, design rules, and objectives for the creation of active campus.
+

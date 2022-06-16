@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the comments for the projects for the week 6 by the
   student.
-file: /media/courses/mas-961-ambient-intelligence-spring-2005/982891c5c1134fc6b88976201e11415e_fl_comment_week6.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/982891c5c1134fc6b88976201e11415e_fl_comment_week6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: fl_comment_week6.pdf
 uid: 982891c5-c113-4fc6-b889-76201e11415e
 ---
+This file contains the comments for the projects for the week 6 by the student.
+
