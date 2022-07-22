@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/6340f1042abecab69c152519
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cl_augment_obj.pdf
 uid: 6340f104-2abe-cab6-9c15-251928fa97f0
 ---
 This file discusses the details about the augmented object, shoes.
-

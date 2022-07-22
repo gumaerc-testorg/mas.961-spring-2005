@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/bab1820ac3d112905a4527e2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ae_proj_update.pdf
 uid: bab1820a-c3d1-1290-5a45-27e2cf5b567e
 ---
 This file gives the progress report of the work done so far on the project.
-

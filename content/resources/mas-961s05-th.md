@@ -10,10 +10,10 @@ image_metadata:
   image-alt: A man wearing a bluetooth earset is crouched next to an internal combustion
     engine.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-961s05-th.jpg
 uid: 8bdb8a15-53a3-4873-9025-095def9a7b9c
 ---
 New image Upload
-

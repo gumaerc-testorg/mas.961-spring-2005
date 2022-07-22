@@ -6,6 +6,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/982891c5c1134fc6b8897620
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fl_comment_week6.pdf
 uid: 982891c5-c113-4fc6-b889-76201e11415e
 ---
 This file contains the comments for the projects for the week 6 by the student.
-

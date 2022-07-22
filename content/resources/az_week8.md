@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/5ba366874f355fd4886da254
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: az_week8.pdf
 uid: 5ba36687-4f35-5fd4-886d-a2540138a0a0
 ---
 This file contains the comments on the project for week 8.
-

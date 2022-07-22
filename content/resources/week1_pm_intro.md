@@ -6,6 +6,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/16025b4375f1704ad8a1d444
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week1_pm_intro.pdf
 uid: 16025b43-75f1-704a-d8a1-d444bd341db6
 ---
 This file contains the introduction to the course,its vision and few scenarios.
-

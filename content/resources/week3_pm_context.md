@@ -6,6 +6,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/ba93dec1cb14f3ba8f361280
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week3_pm_context.pdf
 uid: ba93dec1-cb14-f3ba-8f36-12807eba63dd
 ---
 This file explains the context aware computing along with context aware systems.
-

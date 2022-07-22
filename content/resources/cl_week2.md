@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/ba0c292eac98847003a308e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cl_week2.pdf
 uid: ba0c292e-ac98-8470-03a3-08e530219d5b
 ---
 This file contains the comments on the projects for week 2 by the student.
-

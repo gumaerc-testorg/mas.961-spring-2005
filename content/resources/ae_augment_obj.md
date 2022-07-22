@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/ea2fffb8d679c203da5c54f5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ae_augment_obj.pdf
 uid: ea2fffb8-d679-c203-da5c-54f5906a4a00
 ---
 This file discusses few examples as potential objects.
-

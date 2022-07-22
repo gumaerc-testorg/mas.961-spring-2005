@@ -5,6 +5,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/30dfc2ad81b046ab72e091e4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

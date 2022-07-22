@@ -6,6 +6,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/11d9a7d0c84c710dfc49c758
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ss_comment_week4.pdf
 uid: 11d9a7d0-c84c-710d-fc49-c758aebfcff8
 ---
 This file discusses the paper 'Beating some Common Sense into Interactive Applications link'.
-

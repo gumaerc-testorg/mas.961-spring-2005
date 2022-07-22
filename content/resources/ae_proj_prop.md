@@ -6,6 +6,7 @@ file: /courses/mas-961-ambient-intelligence-spring-2005/94a48971d44be7b17940c567
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ae_proj_prop.pdf
 uid: 94a48971-d44b-e7b1-7940-c567d309d2c6
 ---
 This file proposes a project named liMIT 'location-based instant messaging at MIT'.
-
