@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses the augmented objects.
 file: /courses/mas-961-ambient-intelligence-spring-2005/261f11626999057421250a77d0458320_nk_augment_obj.pdf
+file_size: 48761
 file_type: application/pdf
 learning_resource_types:
 - Projects

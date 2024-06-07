@@ -4,6 +4,7 @@ description: This file makes note of how the current ?bottle-neck? of intelligen
   computing is in the need for more common sense knowledge and the development of
   heuristics to manage it.
 file: /courses/mas-961-ambient-intelligence-spring-2005/0ac11912d2d43580ceeb8ea73c3da32c_ae_week4.pdf
+file_size: 46019
 file_type: application/pdf
 learning_resource_types:
 - Assignments
