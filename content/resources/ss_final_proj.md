@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the final project report.
 file: /courses/mas-961-ambient-intelligence-spring-2005/bd75d7524f91c136c451bf441212ace0_ss_final_proj.pdf
+file_size: 52592
 file_type: application/pdf
 learning_resource_types:
 - Projects

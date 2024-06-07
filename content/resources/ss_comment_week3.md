@@ -2,6 +2,7 @@
 content_type: resource
 description: This file gives comments on Context-Aware Computing Applications link.
 file: /courses/mas-961-ambient-intelligence-spring-2005/87069ab31369c046d8f4828546c1ff58_ss_comment_week3.pdf
+file_size: 46134
 file_type: application/pdf
 learning_resource_types:
 - Assignments

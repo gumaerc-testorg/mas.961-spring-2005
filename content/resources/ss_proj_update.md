@@ -2,6 +2,7 @@
 content_type: resource
 description: This file describes the updates on the project being worked on.
 file: /courses/mas-961-ambient-intelligence-spring-2005/bd9cbec61e926356a2c53c852932b506_ss_proj_update.pdf
+file_size: 45786
 file_type: application/pdf
 learning_resource_types:
 - Projects

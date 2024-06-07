@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses the various scenarios in day to day's life.
 file: /courses/mas-961-ambient-intelligence-spring-2005/9f0d2860282cf6930800f73e1f815244_ss_scene_paper.pdf
+file_size: 50851
 file_type: application/pdf
 learning_resource_types:
 - Projects

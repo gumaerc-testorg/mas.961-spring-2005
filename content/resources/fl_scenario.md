@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses the scenario named 'Relaxing Sunday'.
 file: /courses/mas-961-ambient-intelligence-spring-2005/da9ad1e7cf30a8f3ed8c3cfd56e21e7e_fl_scenario.pdf
+file_size: 48845
 file_type: application/pdf
 learning_resource_types:
 - Projects
