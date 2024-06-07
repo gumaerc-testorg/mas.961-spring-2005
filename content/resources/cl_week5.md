@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the comments for the projects for week 5 by the student.
 file: /courses/mas-961-ambient-intelligence-spring-2005/472c0bbcc6811cba7efb002978aa998c_cl_week5.pdf
+file_size: 61744
 file_type: application/pdf
 learning_resource_types:
 - Assignments

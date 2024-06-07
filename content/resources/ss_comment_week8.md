@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses about AR and UI.
 file: /courses/mas-961-ambient-intelligence-spring-2005/ec40aa85fa4805d94fd4a37354f6ab3d_ss_comment_week8.pdf
+file_size: 44556
 file_type: application/pdf
 learning_resource_types:
 - Assignments

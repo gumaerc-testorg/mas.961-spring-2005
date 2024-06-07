@@ -3,6 +3,7 @@ content_type: resource
 description: This file consists of overview of hardware, location, position sensors,
   ultrasonic and intertial.
 file: /courses/mas-961-ambient-intelligence-spring-2005/b17755aa17ab2d9848cba2a76821a390_week8_ss_ar_hard.pdf
+file_size: 36969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

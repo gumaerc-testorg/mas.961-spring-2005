@@ -3,6 +3,7 @@ content_type: resource
 description: This file consists of the explaination of the topic along with paper
   UI, results, object methods.
 file: /courses/mas-961-ambient-intelligence-spring-2005/4adeb2960b73ef42a4e38f3fb143fc31_week8_az_arpres.pdf
+file_size: 352745
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
