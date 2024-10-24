@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file describes the Ubitable and Mediacup, face responsive interfaces.
-file: /courses/mas-961-ambient-intelligence-spring-2005/bf6686d617274996a10b9754fb1514e2_week5_az_ubicomp.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/bf6686d617274996a10b9754fb1514e2_week5_az_ubicomp.pdf
 file_size: 532709
 file_type: application/pdf
 learning_resource_types:

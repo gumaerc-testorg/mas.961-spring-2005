@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-961-ambient-intelligence-spring-2005/8bdb8a1553a348739025095def9a7b9c_mas-961s05-th.jpg
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/8bdb8a1553a348739025095def9a7b9c_mas-961s05-th.jpg
 file_size: 2181
 file_type: image/jpeg
 image_metadata:
