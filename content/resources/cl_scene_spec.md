@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses a scenario in a person's day to day life.
-file: /courses/mas-961-ambient-intelligence-spring-2005/ded8d86eb077b2b4cb1394753db04143_cl_scene_spec.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/ded8d86eb077b2b4cb1394753db04143_cl_scene_spec.pdf
 file_size: 72383
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file proposes a project named 'Blood Bath' and how can it be implemented.
-file: /courses/mas-961-ambient-intelligence-spring-2005/033d64e191ccfb3a0c86253e16618fae_cl_proj_prop.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/033d64e191ccfb3a0c86253e16618fae_cl_proj_prop.pdf
 file_size: 69109
 file_type: application/pdf
 learning_resource_types:
