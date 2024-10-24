@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains the overview, problems, inspiration, hardware and
   privacy issues in ubiquitous computing.
-file: /courses/mas-961-ambient-intelligence-spring-2005/746d5bbbdf031144c82990ed74800e14_week5_sajidsadi2.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/746d5bbbdf031144c82990ed74800e14_week5_sajidsadi2.pdf
 file_size: 32127
 file_type: application/pdf
 learning_resource_types:
