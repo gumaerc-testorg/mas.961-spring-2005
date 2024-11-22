@@ -41,7 +41,7 @@ Maes, P., and B. Schneiderman. "Direct Manipulation vs. Interface Agents: a Deba
 
 Direct Manipulation ([PDF](https://www.cc.gatech.edu/classes/AY2002/cs4470_fall/p152-cardelli.pdf))
 
-[The Wearable Remembrance Agent: A system for Augmented Memory, Rhodes](http://alumni.media.mit.edu/~rhodes/Papers/wear-ra-personaltech/)
+[The Wearable Remembrance Agent: A system for Augmented Memory, Rhodes (PDF)](https://www.cs.columbia.edu/~feiner/courses/mobwear/resources/rhodes-iswc97.pdf)
 
 *Optional*
 
@@ -85,7 +85,7 @@ Persson, et al. [Geonotes](http://www.ercim.org/publication/Ercim_News/enw47/per
 
 [UCSD ActiveCampus](http://cseweb.ucsd.edu/~wgg/active-campus-overview_files/v3_document.htm)
 
-Memory systems   
+Memory systems    
 Lamming, M. "'Forget-me-not': Intimate Computing in Support of Human Memory." In *Proceedings FRIEND21 Symposium on Next Generation Human Interfaces* (1994).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -94,7 +94,7 @@ Lamming, M. "'Forget-me-not': Intimate Computing in Support of Human Memory." In
 
 Interfaces with Common Sense
 
-Invited speakers:   
+Invited speakers:    
 Hugo Liu, Pushpinder Singh and Pallavi Kaushik
 
 {{< tdclose >}}{{< tdopen >}}
@@ -123,7 +123,7 @@ Prof. Patricia Maes and Students
 
 *Required*
 
-Weiser. [*Ubiquitous Computing*](http://web.stanford.edu/dept/SUL/library/extra4/weiser/ubiq.html).
+Weiser. [*Ubiquitous Computing (PDF)*](https://ics.uci.edu/~djp3/classes/2012_09_INF241/papers/Weiser-Computer21Century-SciAm.pdf).
 
 ———. [*Perspectives Article for ACM Interactions*](http://informatica.uv.es/iiguia/EU/WorldIsNotDesktop.htm). 1993.
 
@@ -199,17 +199,17 @@ Vallino, J. [Introduction to Augmented Reality](http://www.se.rit.edu/~jrv/resea
 
 Designing Interactive Paper ([PDF](http://www-ihm.lri.fr/~mackay/pdffiles/IWAR99.InteractivePaper.pdf))
 
-*Presence Journal* special issue on AR, 1997.   
+*Presence Journal* special issue on AR, 1997.    
 Wellner, P. "The DigitalDesk Calculator: Tangible Manipulation on a Desk Top Display." *Proceedings of UIST '91* (1991): 27-33.
 
 Leibe, Bastian, and Thad Starner. *The Perceptive Workbench: Toward Spontaneous and Natural Interaction in SemiImmersive Virtual Environments.* 2000. ([PDF](https://smartech.gatech.edu/bitstream/handle/1853/3400/99-33.pdf;jsessionid=86D397BF1A392E288161D6173999F427.smart2?sequence=1))
 
-Nakanishi, et al. *EnhancedDesk and EnhancedWall: Augmented Desk and Wall Interfaces*. (\[PDF\]([http://dspace.mit.edu/bitstream/handle/1721.1/82648/mas-963-spring-2004/contents/assignments/enhanced_class8.pdf](http://dspace.mit.edu/bitstream/handle/1721.1/82648/mas-963-spring-2004/contents/assignments/enhanced_class8.pdf)  
+Nakanishi, et al. *EnhancedDesk and EnhancedWall: Augmented Desk and Wall Interfaces*. (\[PDF\]([http://dspace.mit.edu/bitstream/handle/1721.1/82648/mas-963-spring-2004/contents/assignments/enhanced_class8.pdf](http://dspace.mit.edu/bitstream/handle/1721.1/82648/mas-963-spring-2004/contents/assignments/enhanced_class8.pdf)   
 ))
 
 Johnson, W., H. Jellinek, L. Klotz, and S. Card. "Bridging the Paper and Electronic Worlds: The Paper User Interface." *Proceedings of INTERCHI'93* (1993): 507-512. ([PDF](https://dl.acm.org/doi/pdf/10.1145/169059.169445))
 
-"Listen Reader." An Electronically Augmented Paper-based Book. ([PDF - 1.1MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.3073&rep=rep1&type=pdf))
+["Listen Reader: An Electronically Augmented Paper-based Book."](https://dl.acm.org/doi/10.1145/365024.365031)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -247,7 +247,7 @@ Tutorial on RFID Technology.
 
 "Objects with Embedded Sensors, Computation, & Networking Sensor & Actuator Networks." Special Issue of *IEEE Pervasive Computing* (Oct 2003).
 
-[Mobility, Service Discovery, Auto Configuration and Ad-Hoc Networking](http://www.antd.nist.gov/wahn_home.shtml)
+[Mobility, Service Discovery, Auto Configuration and Ad-Hoc Networking](https://web.archive.org/web/20060219140529/http://www.antd.nist.gov/wahn_home.shtml)
 
 Want, R., et al. "Disappearing Hardware." *IEEE Pervasive Computing.*
 
