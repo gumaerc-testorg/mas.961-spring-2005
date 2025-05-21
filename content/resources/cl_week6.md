@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the comments for the project for week 6 by the student.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/10cce659fc70da1cada9fe81d501962f_cl_week6.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/10cce659fc70da1cada9fe81d501962f_cl_week6.pdf
 file_size: 72228
 file_type: application/pdf
 learning_resource_types:

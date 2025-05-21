@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses the paper on 'Tangible Bits Link'.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/cd29861d0a3be9893ef73bbb29f8863c_ss_comment_week7.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/cd29861d0a3be9893ef73bbb29f8863c_ss_comment_week7.pdf
 file_size: 42358
 file_type: application/pdf
 learning_resource_types:

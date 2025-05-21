@@ -2,7 +2,7 @@
 content_type: resource
 description: Thsi file discusses a well defined scope of the project being worked
   on.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/f172f7f3e458a3064830f7af9b35ec59_cl_proj_update.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/f172f7f3e458a3064830f7af9b35ec59_cl_proj_update.pdf
 file_size: 64018
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives the scope, current design and next steps of the project.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/602b52adecf88b711b9ee566013df666_fl_proj_update.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/602b52adecf88b711b9ee566013df666_fl_proj_update.pdf
 file_size: 43122
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives the comments on the projects.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/55108a6e410f7cabe724e85fe593744d_ae_week5.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/55108a6e410f7cabe724e85fe593744d_ae_week5.pdf
 file_size: 47056
 file_type: application/pdf
 learning_resource_types:

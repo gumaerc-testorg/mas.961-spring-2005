@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives the progress report of the work done so far on the project.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/bab1820ac3d112905a4527e2cf5b567e_ae_proj_update.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/bab1820ac3d112905a4527e2cf5b567e_ae_proj_update.pdf
 file_size: 43913
 file_type: application/pdf
 learning_resource_types:

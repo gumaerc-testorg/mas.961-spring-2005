@@ -2,7 +2,7 @@
 content_type: resource
 description: This file proposes a project named liMIT 'location-based instant messaging
   at MIT'.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/94a48971d44be7b17940c567d309d2c6_ae_proj_prop.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/94a48971d44be7b17940c567d309d2c6_ae_proj_prop.pdf
 file_size: 53037
 file_type: application/pdf
 learning_resource_types:
