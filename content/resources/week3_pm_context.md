@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains the context aware computing along with context aware
   systems.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/ba93dec1cb14f3ba8f3612807eba63dd_week3_pm_context.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/ba93dec1cb14f3ba8f3612807eba63dd_week3_pm_context.pdf
 file_size: 176741
 file_type: application/pdf
 learning_resource_types:

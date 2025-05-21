@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses the various scenarios in a person's life.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/b3f4f7c6cc381d13d327b20da394c64c_az_scene_paper.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/b3f4f7c6cc381d13d327b20da394c64c_az_scene_paper.pdf
 file_size: 52898
 file_type: application/pdf
 learning_resource_types:
