@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the various scenarios by taking examples from a person's
   day to day life.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/d49afbf462cd1cc8a043bc64c698b7e7_ae_scene_paper.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/d49afbf462cd1cc8a043bc64c698b7e7_ae_scene_paper.pdf
 file_size: 51243
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses about Forget-me-not concept.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/88057651079b98dd4393e2dc7376fb5b_nk_week3.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/88057651079b98dd4393e2dc7376fb5b_nk_week3.pdf
 file_size: 44310
 file_type: application/pdf
 learning_resource_types:

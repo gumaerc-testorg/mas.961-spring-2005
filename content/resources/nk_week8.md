@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses two papers on augmented reality and physical paper.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/5cd94e166faa9fc08ede8b3c9f572fbe_nk_week8.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/5cd94e166faa9fc08ede8b3c9f572fbe_nk_week8.pdf
 file_size: 46734
 file_type: application/pdf
 learning_resource_types:

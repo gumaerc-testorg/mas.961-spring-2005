@@ -2,7 +2,7 @@
 content_type: resource
 description: This file describes the common sense based applications and explains
   LifeNet.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/1385f06ba4e00103b7c51fe0680af793_week4_push_singh.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/1385f06ba4e00103b7c51fe0680af793_week4_push_singh.pdf
 file_size: 2982777
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file proposes a project named 'Happy Display'.
-file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/38f15bb961b9d8c3d64d89baa1006ed5_fl_proj_prop.pdf
+file: /courses/mas-961-ambient-intelligence-spring-2005/38f15bb961b9d8c3d64d89baa1006ed5_fl_proj_prop.pdf
 file_size: 77158
 file_type: application/pdf
 learning_resource_types:
