@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives the update on the project work being done.
-file: /courses/mas-961-ambient-intelligence-spring-2005/25de4031e980ffac6fc4f04cee449d3f_az_proj_update.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/25de4031e980ffac6fc4f04cee449d3f_az_proj_update.pdf
 file_size: 51070
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the comments for the projects for the week 8 by the
   student.
-file: /courses/mas-961-ambient-intelligence-spring-2005/6bcbc7590c2a4496c3b1b4af416d2a22_cl_week8.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/6bcbc7590c2a4496c3b1b4af416d2a22_cl_week8.pdf
 file_size: 60969
 file_type: application/pdf
 learning_resource_types:
