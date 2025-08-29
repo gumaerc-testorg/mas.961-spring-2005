@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses about the potential everyday objects.
-file: /courses/mas-961-ambient-intelligence-spring-2005/1bc1f2765180b56ae8151dd6f626c6c4_fl_augment_obj.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/1bc1f2765180b56ae8151dd6f626c6c4_fl_augment_obj.pdf
 file_size: 44507
 file_type: application/pdf
 learning_resource_types:

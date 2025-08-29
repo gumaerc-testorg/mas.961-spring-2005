@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the paper 'Beating some Common Sense into Interactive
   Applications link'.
-file: /courses/mas-961-ambient-intelligence-spring-2005/11d9a7d0c84c710dfc49c758aebfcff8_ss_comment_week4.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/11d9a7d0c84c710dfc49c758aebfcff8_ss_comment_week4.pdf
 file_size: 41686
 file_type: application/pdf
 learning_resource_types:

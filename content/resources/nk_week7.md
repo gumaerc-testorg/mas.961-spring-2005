@@ -4,7 +4,7 @@ description: 'This file discusses the reading: "Tangible bits: towards seamless 
   between people, bits and atoms" by Ishii and Ullmer, "Tangible multimodal interfaces
   for safety-critical applications" by Cohen and McGee?, "Ambient Interfaces: Design
   Challenges and Recommendations" by Gross.'
-file: /courses/mas-961-ambient-intelligence-spring-2005/aa07796690eff10e9f7bbb80d4e0a0cd_nk_week7.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/aa07796690eff10e9f7bbb80d4e0a0cd_nk_week7.pdf
 file_size: 45543
 file_type: application/pdf
 learning_resource_types:
