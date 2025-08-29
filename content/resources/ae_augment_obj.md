@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses few examples as potential objects.
-file: /courses/mas-961-ambient-intelligence-spring-2005/ea2fffb8d679c203da5c54f5906a4a00_ae_augment_obj.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/ea2fffb8d679c203da5c54f5906a4a00_ae_augment_obj.pdf
 file_size: 44595
 file_type: application/pdf
 learning_resource_types:

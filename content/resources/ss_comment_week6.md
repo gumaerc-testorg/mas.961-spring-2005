@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses the paper on 'Generic User Modeling Systems Link'.
-file: /courses/mas-961-ambient-intelligence-spring-2005/e66c6cc87bc78a94723a1c1e209ef9e5_ss_comment_week6.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/e66c6cc87bc78a94723a1c1e209ef9e5_ss_comment_week6.pdf
 file_size: 44602
 file_type: application/pdf
 learning_resource_types:

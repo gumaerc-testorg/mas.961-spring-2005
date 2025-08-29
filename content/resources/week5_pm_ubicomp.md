@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains ubiquitous computing and Mark Weiser's vision on it
   and it also puts light on the reversal of some other trends.
-file: /courses/mas-961-ambient-intelligence-spring-2005/bd6335c5dc42fbfe4f204c5e77e903df_week5_pm_ubicomp.pdf
+file: /ol-ocw-studio-app/courses/mas-961-ambient-intelligence-spring-2005/bd6335c5dc42fbfe4f204c5e77e903df_week5_pm_ubicomp.pdf
 file_size: 60085
 file_type: application/pdf
 learning_resource_types:
